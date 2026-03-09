@@ -166,4 +166,3 @@ aviation-disruption-country-analyzer
 # Author
 
 Sultan Munir Muhammad Sadat
-improve your GitHub portfolio.
